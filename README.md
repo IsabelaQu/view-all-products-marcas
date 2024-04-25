@@ -17,8 +17,7 @@
 > Selecionar os produtos com preço acima da média.
 
 ## Descrição da Atividade 📓
-
-## Modelo Lógico 📈
+Essencialmente, a atividade envolveu a criação de views para fornecer diferentes perspectivas sobre os dados existentes na base de dados, além de adicionar um novo campo e realizar consultas específicas com base nesses dados adicionados.
 
 ## Pré-requisitos
 Sql Online 
